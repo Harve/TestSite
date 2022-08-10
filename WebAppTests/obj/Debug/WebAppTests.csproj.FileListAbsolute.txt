@@ -1,0 +1,14 @@
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\WebAppTests.dll
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\WebAppTests.pdb
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\obj\Debug\WebAppTests.csprojAssemblyReference.cache
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\obj\Debug\WebAppTests.csproj.CoreCompileInputs.cache
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\obj\Debug\WebAppTests.csproj.CopyComplete
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\obj\Debug\WebAppTests.dll
+C:\Users\Harvey\source\repos\WebApplicationTest\WebAppTests\obj\Debug\WebAppTests.pdb
